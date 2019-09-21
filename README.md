@@ -1,6 +1,9 @@
 # AlgoInterview
 Something for coding test
 
+
+Bit Magic 
+
 Java Bitwise Operater (not taught by Shuaicheng Li)
 
 For an assignment at Uchi
